@@ -1,4 +1,0 @@
-2015-02-09 20:55:36 INFO  com.example.mapreduce.MutualFriendsMapperTest:77 - Key: (John Mark), Value: John,Miller,Peter,Robin
-2015-02-09 20:55:36 INFO  com.example.mapreduce.MutualFriendsMapperTest:77 - Key: (Mark Miller), Value: John,Miller,Peter,Robin
-2015-02-09 20:55:36 INFO  com.example.mapreduce.MutualFriendsMapperTest:77 - Key: (Mark Peter), Value: John,Miller,Peter,Robin
-2015-02-09 20:55:36 INFO  com.example.mapreduce.MutualFriendsMapperTest:77 - Key: (Mark Robin), Value: John,Miller,Peter,Robin
